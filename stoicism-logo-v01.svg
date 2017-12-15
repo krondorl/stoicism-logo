@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 320 320" style="enable-background:new 0 0 320 320;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:5.3125;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+</style>
+<g id="XMLID_27_">
+	<path id="XMLID_17_" d="M160,4c41.7,0,80.8,16.2,110.3,45.7S316,118.3,316,160s-16.2,80.8-45.7,110.3S201.7,316,160,316
+		s-80.8-16.2-110.3-45.7S4,201.7,4,160S20.2,79.2,49.7,49.7S118.3,4,160,4 M160,0C71.6,0,0,71.6,0,160s71.6,160,160,160
+		s160-71.6,160-160S248.4,0,160,0L160,0z"/>
+</g>
+<g id="XMLID_28_">
+	<path id="XMLID_13_" d="M160,14c39,0,75.7,15.2,103.2,42.8C290.8,84.3,306,121,306,160s-15.2,75.7-42.8,103.2
+		C235.7,290.8,199,306,160,306s-75.7-15.2-103.2-42.8C29.2,235.7,14,199,14,160S29.2,84.3,56.8,56.8C84.3,29.2,121,14,160,14
+		 M160,10C77.2,10,10,77.2,10,160s67.2,150,150,150s150-67.2,150-150S242.8,10,160,10L160,10z"/>
+</g>
+<circle id="XMLID_29_" cx="160" cy="160" r="32"/>
+<circle id="XMLID_30_" class="st0" cx="160" cy="160" r="42.5"/>
+<line id="XMLID_31_" class="st1" x1="160" y1="13" x2="160" y2="116"/>
+<line id="XMLID_33_" class="st1" x1="287.3" y1="233.5" x2="198.1" y2="182"/>
+<line id="XMLID_34_" class="st1" x1="32.7" y1="233.5" x2="121.9" y2="182"/>
+</svg>
